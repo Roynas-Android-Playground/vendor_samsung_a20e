@@ -36,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a20e/proprietary/vendor/lib/hw/audio.primary.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib/hw/camera.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib/hw/gatekeeper.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.exynos7884B.so \
-    vendor/samsung/a20e/proprietary/vendor/lib/hw/memtrack.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib/hw/sensors.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib/hw/thermal.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCv.camera.samsung.so \
@@ -50,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/android.hardware.gnss@2.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gnss@2.1-impl.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/camera.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/gatekeeper.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7884B.so \
-    vendor/samsung/a20e/proprietary/vendor/lib64/hw/memtrack.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/sensors.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/thermal.exynos7884B.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.exynos7884B.so \
     vendor/samsung/a20e/proprietary/vendor/lib64/hw/vendor.samsung.hardware.gnss@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.samsung.hardware.gnss@2.0-impl.so \
